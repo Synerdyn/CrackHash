@@ -1,7 +1,8 @@
 PYTHON CRACKHASH
 ================
 
-This is a tutorial to how to make a network scanner with Python. Feel free to reuse the code.
+This is a tutorial to how to brute force sha1, sha2, md5 hashes 
+using cpu or gpu with Python. Feel free to reuse the code.
 The tutorial is processed in the context of a Youtube channel :
 https://www.youtube.com/@synerdyn
 
